@@ -26,7 +26,7 @@ What needs to be done:
 9. Admin. Only superuser can authorize in admin, other users can't.
 10. Make a swagger for all endpoints.
 
-Hard task: in order for a user to be able to authorize with an email and password, you need to override the basic User model.
+Hard sub-task: in order for a user to be able to authorize with an email and password, you need to override the basic User model.
 
 <br>
 
