@@ -5,6 +5,7 @@ For junior developers, which i interview in company, i give test task for check 
 - [english version](#english)
 - [russian version](#russian)
 
+<br>
 
 ### <a name="english"></a> Enaglish version
 Test Assignment: You need to develop a REST API on Django(Python). DATABASE: PostgreSQL
@@ -27,6 +28,7 @@ What needs to be done:
 
 Hard task: in order for a user to be able to authorize with an email and password, you need to override the basic User model.
 
+<br>
 
 ### <a name="russian"></a> Russian version
 Тестовое задание: Нужно разработать REST API на Django(Python). БД: PostgreSQL
@@ -35,7 +37,7 @@ Hard task: in order for a user to be able to authorize with an email and passwor
 
 Что нужно сделать:
 
-0. Создать проект, придумать схему БД и реализовать ее (нужно использовать Foreign Key, M2M по ситуации). СДелать как минимум 2 миграции
+0. Создать проект, придумать схему БД и реализовать ее (нужно использовать Foreign Key, M2M по ситуации). Сделать как минимум 2 миграции
 1. Сделать регистрацию/авторизацию через REST API, с JWT.
 2. Сделать вывод 1 поста только для авторизованного пользователя
 3. Сделать вывод всех постов только для авторизованного пользователя
